@@ -20,3 +20,7 @@
 #### A message for completing the survey is displayed
 
 ![thank_you_message](public/images/thankyoumessage.png)
+
+#### Data is stored in the database(Firebase)
+
+![firebase](public/images/firebase.png)
