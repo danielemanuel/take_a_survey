@@ -1,4 +1,4 @@
-# Survey test
+# Take a  test
 
 ## To run the app :
 
@@ -7,7 +7,7 @@
  * npm install
  * npm start
 
-#### 'Survey test' is a simple an basic app that that uses ReactJS as a Front-End technology and Firebase as a database to store the user data
+#### 'Take a test' is a simple an basic app that that uses ReactJS as a Front-End technology and Firebase as a database to store the user data
 
 #### User can enter his name to start the survey
 
